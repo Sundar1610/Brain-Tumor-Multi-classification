@@ -29,6 +29,7 @@ The dataset used is the **Brain Tumor MRI Dataset**, which consists of MRI image
 -  Confusion matrix generation for model performance analysis  
 -  Early stopping and best-model checkpointing  
 -  Easily extendable to other CNN architectures
+  
 **Requirements**
 
 This project requires the following libraries:
